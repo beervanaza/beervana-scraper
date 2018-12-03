@@ -1,0 +1,23 @@
+{
+  "name": "beervana-scraper",
+  "version": "0.0.1",
+  "description": "just scraper for beervana.sk web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beervanaza/beervana-scraper.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "scraper"
+  ],
+  "author": "dusan_rostar",
+  "license": "ISC",
+  "dependencies": {
+    "scrape-it": "^5.1.1"
+  }
+}
